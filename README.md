@@ -8,5 +8,3 @@
 ---------------------------------------
 ### [flutter-scaffold-example](https://github.com/lucifel20/flutter-scaffold-example)
 ---------------------------------------
-### [flutter-scaffold-example](/flutter-scaffold-example)
----------------------------------------
