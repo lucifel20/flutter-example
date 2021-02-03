@@ -8,3 +8,4 @@
 |[flutter-basic-layout-example](https://github.com/lucifel20/flutter-basic-layout-example)|
 |[flutter-listView-example](https://github.com/lucifel20/flutter-listView-example)|
 |[flutter-button-example](https://github.com/lucifel20/flutter-button-example)|
+|[flutter-checkbox-example](https://github.com/lucifel20/flutter-checkbox-example)|
