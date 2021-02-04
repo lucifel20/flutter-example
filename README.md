@@ -10,3 +10,4 @@
 |[flutter-button-example](https://github.com/lucifel20/flutter-button-example)|
 |[flutter-checkbox-example](https://github.com/lucifel20/flutter-checkbox-example)|
 |[flutter-radio-example](https://github.com/lucifel20/flutter-radio-example)|
+|[flutter-switch-example](https://github.com/lucifel20/flutter-switch-example)|
