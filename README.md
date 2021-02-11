@@ -14,6 +14,7 @@
 |[flutter-radio-example](https://github.com/lucifel20/flutter-radio-example)|
 |[flutter-switch-example](https://github.com/lucifel20/flutter-switch-example)|
 |[flutter-slider-example](https://github.com/lucifel20/flutter-slider-example)|
+|[flutter-chip-example](https://github.com/lucifel20/flutter-chip-example)|
 |[flutter-date-time-picker-example](https://github.com/lucifel20/flutter-date-time-picker-example)|
 |[flutter-textfield-example](https://github.com/lucifel20/flutter-textfield-example)|
 |[flutter-dialog-example](https://github.com/lucifel20/flutter-dialog-example)|
