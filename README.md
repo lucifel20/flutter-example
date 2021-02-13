@@ -18,3 +18,4 @@
 |[flutter-date-time-picker-example](https://github.com/lucifel20/flutter-date-time-picker-example)|
 |[flutter-textfield-example](https://github.com/lucifel20/flutter-textfield-example)|
 |[flutter-dialog-example](https://github.com/lucifel20/flutter-dialog-example)|
+|[flutter-navigator-example](https://github.com/lucifel20/flutter-navigator-example)|
